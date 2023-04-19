@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "--prefix",
+      "/usr/local/share/OpenMPI",
+      "-I/usr/lib64/mpi/gcc/openmpi4/include",
+      "-o",
+      "parkmeans",
+      "parkmeans.cc"
+    ],
+    "directory": "/home/vojta/Plocha/School/MIT1/Letní/PRL/Project/4-means",
+    "file": "/home/vojta/Plocha/School/MIT1/Letní/PRL/Project/4-means/parkmeans.cc",
+    "output": "/home/vojta/Plocha/School/MIT1/Letní/PRL/Project/4-means/parkmeans"
+  }
+]

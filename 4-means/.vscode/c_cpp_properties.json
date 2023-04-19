@@ -4,7 +4,8 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/lib64/mpi/gcc/openmpi4/include"
+                "/usr/lib64/mpi/gcc/openmpi4/include",
+                "/usr/lib/x86_64-linux-gnu/openmpi/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
@@ -13,7 +14,6 @@
             "intelliSenseMode": "linux-gcc-x64",
             "browse": {
                 "path": [
-                    "/usr/lib64/mpi/gcc/openmpi4/include"
                 ]
             }
         }

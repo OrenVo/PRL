@@ -1,2 +1,5 @@
 -I
 /usr/lib64/mpi/gcc/openmpi4/include
+
+-I
+/usr/lib/x86_64-linux-gnu/openmpi/include
